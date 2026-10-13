@@ -1,0 +1,9 @@
+{
+  "name": "top-tier-fiscal-guia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Guía fiscal interactiva para clientes RESICO de Top Tier Fiscal",
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
